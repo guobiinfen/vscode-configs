@@ -1,2 +1,3 @@
-# vscode-configs
-插件配置密钥
+
+token:06b9d4bab33701554143e508a50ba02e2ebca72f
+gistid:dd22f1f9cb750d9a0a3f4ccbe17fbc4b
