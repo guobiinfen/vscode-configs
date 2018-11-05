@@ -1,7 +1,5 @@
 
-GitHub Token: 76f8587e941d58771818208f6ec65b935a6b73f5
+GitHub Token: 2b3e468695fd2d76de1dbbfc78deeb89a6598017
 
 
-
-
-GitHub Gist: 28ede3013bb355850abb1a3277a65226
+GitHub Gist: 752f1e6dac42dca413a9871870419e71
